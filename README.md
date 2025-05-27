@@ -1,12 +1,10 @@
 # Building a Multi-Modal Classifier for Shopping Recommendations
 
-Multi-modal classification is a type of classification problem where the input is composed of different types of data. In this project, we'll explore a case where the input is composed of both text and tabular data. Specifically, we will be looking at a dataset of clothing reviews and build a model to generate predictions (0's and 1's), indicating the likelihood that a given shopper would recommend a given item. You can read all about our model that we will be using for this task -- Google's bert-base-uncased -- [right here]((https://huggingface.co/google-bert/bert-base-uncased)) on Hugging Face.
+Multi-modal classification is a type of classification problem where the input is composed of different types of data. In this project, we'll explore a case where the input is composed of both text and tabular data. Specifically, we will be looking at a dataset of clothing reviews and build a model to generate predictions (0's and 1's), indicating the likelihood that a given shopper would recommend a given item. You can read all about our model that we will be using for this task -- Google's bert-base-uncased -- [right here](https://huggingface.co/google-bert/bert-base-uncased) on Hugging Face.
 
 ## View the full notebook right here:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17SPfMHY63F5r3SOxO1w0foKuHGOkoZpu?usp=sharing])
-
-https://colab.research.google.com/drive/14Z0bP3DE3QToE_mg3RNo6-b7jxFen7ba?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17SPfMHY63F5r3SOx01w0foKuHGOkoZpu?usp=sharing)
 
 ## The Pipeline
 
