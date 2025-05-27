@@ -11,15 +11,15 @@ Multi-modal classification is a type of classification problem where the input i
 Before we dive in, here's the pipeline that we will be following:
 
  - Set up the environment
-- Load the dataset
--Import the tokenizer
--Split the training, validation and test sets
--Create the encodings
--Build the PyTorch dataset
--Design a neural network
--Train the model
--Generate predictions from the test set
--The big picture: Multi-modal classification at the frontier of ML
+ - Load the dataset
+ - Import the tokenizer
+ - Split the training, validation and test sets
+ - Create the encodings
+ - Build the PyTorch dataset
+ - Design a neural network
+ - Train the model
+ - Generate predictions from the test set
+ - The big picture: Multi-modal classification at the frontier of ML
 
 ## Tools & Libraries Used
 
