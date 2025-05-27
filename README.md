@@ -10,8 +10,8 @@ Multi-modal classification is a type of classification problem where the input i
 
 Before we dive in, here's the pipeline that we will be following:
 
--Set up the environment
--Load the dataset
+- Set up the environment
+- Load the dataset
 -Import the tokenizer
 -Split the training, validation and test sets
 -Create the encodings
