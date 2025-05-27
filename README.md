@@ -4,8 +4,7 @@ Multi-modal classification is a type of classification problem where the input i
 
 ## View the full notebook right here:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17SPfMHY63F5r3S0x01w0foKuHGOkcZpu?usp=sharing)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Z0bP3DE3QToE_mg3RNo6-b7jxFen7ba?usp=sharing)
 
 ## The Pipeline
 
